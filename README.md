@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,10 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +45,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
