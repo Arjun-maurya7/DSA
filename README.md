@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
