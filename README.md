@@ -17,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
