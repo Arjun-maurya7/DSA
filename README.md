@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
