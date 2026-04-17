@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
