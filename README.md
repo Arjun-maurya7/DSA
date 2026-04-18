@@ -128,4 +128,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
