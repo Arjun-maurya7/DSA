@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -134,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
