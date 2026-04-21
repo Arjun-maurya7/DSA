@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
