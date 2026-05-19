@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Union-Find
@@ -169,15 +170,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
