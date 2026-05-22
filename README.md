@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
