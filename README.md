@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
