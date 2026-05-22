@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
