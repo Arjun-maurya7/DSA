@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
@@ -185,4 +187,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
