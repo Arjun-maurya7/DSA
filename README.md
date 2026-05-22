@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
