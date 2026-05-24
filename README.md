@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
@@ -93,10 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -148,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -163,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
