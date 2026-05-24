@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
