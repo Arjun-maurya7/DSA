@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
