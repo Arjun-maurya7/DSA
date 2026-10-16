@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0290-word-pattern](https://github.com/Arjun-maurya7/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Arjun-maurya7/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun-maurya7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
