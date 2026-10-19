@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Arjun-maurya7/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Arjun-maurya7/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Arjun-maurya7/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [2751-robot-collisions](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -294,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arjun-maurya7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Arjun-maurya7/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
