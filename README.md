@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Arjun-maurya7/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Arjun-maurya7/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Arjun-maurya7/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Arjun-maurya7/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Arjun-maurya7/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun-maurya7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Arjun-maurya7/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Arjun-maurya7/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arjun-maurya7/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
