@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arjun-maurya7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun-maurya7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Arjun-maurya7/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/Arjun-maurya7/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Arjun-maurya7/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Arjun-maurya7/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Arjun-maurya7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun-maurya7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Arjun-maurya7/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Arjun-maurya7/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Arjun-maurya7/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Arjun-maurya7/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0509-fibonacci-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -306,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Arjun-maurya7/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Arjun-maurya7/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
