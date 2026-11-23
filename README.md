@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Arjun-maurya7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-maurya7/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arjun-maurya7/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
