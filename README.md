@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Arjun-maurya7/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Arjun-maurya7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Arjun-maurya7/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Arjun-maurya7/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arjun-maurya7/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Arjun-maurya7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Arjun-maurya7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Arjun-maurya7/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Arjun-maurya7/DSA/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
